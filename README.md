@@ -6,6 +6,6 @@ The Airbnb model for housing prcing has proven to be hugely succesful and widely
 
 1. In other to achieve this, I will build a machine learning model with a very high accuracy. 
 2. Based on the findings of the analysis team, I can decide what percentage reduction of price can be applied across board in order to attract more customers as well as maintain profitabiliy.
-3. Since I do not have a large workforce, I will also build a monitoring system that constanly checks the performance of our model against current pricing.
+3. Since I do not have a large workforce, I will also build a monitoring system that constanly checks the performance of our model against current pricing. I achieve this by using the prefect tool for orchestration, this also helps me monitor the entire pipeline from data ingestion to inference, detecting and break in the process.
 
 ### Here is the link to the data set: https://www.kaggle.com/code/joesweeny2/airbnb-final-project/data
